@@ -1,0 +1,1 @@
+First of all, all sprites and graphics are created by third-party authors (Spacekit: https://www.behance.net/bgregory, SkySprites: https://www.artstation.com/digitalmoons). Be sure to say "THANK YOU" to them!
