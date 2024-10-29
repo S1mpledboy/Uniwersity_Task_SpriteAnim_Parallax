@@ -2608,7 +2608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shipSpeed: 5
-  firerate: 3
+  firerate: 10
   projecTile: {fileID: 853281280321914615, guid: 27ea590d9d02e7a4ebabbe6ef14fd8c9, type: 3}
   rocketSilo1: {fileID: 1391577351}
   rocketSilo2: {fileID: 1767742593}

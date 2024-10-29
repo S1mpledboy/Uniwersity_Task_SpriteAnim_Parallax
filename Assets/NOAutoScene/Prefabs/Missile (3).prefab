@@ -101,7 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitEffect: {fileID: 5046097149048474959, guid: 439b0c393501a8243a6331ca4c7de692, type: 3}
   rb: {fileID: 6285515287438531148}
-  projectileSpeed: 5
+  projectileSpeed: 9
 --- !u!61 &1013423927550756395
 BoxCollider2D:
   m_ObjectHideFlags: 0
