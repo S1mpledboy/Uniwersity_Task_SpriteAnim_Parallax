@@ -7,7 +7,7 @@ public class LazySpaceShipController : MonoBehaviour
     float horizontalMvement, vercticalMovement;
     [SerializeField] float shipSpeed, firerate;
     [SerializeField] GameObject projecTile;
-    [SerializeField] List<Transform> rocketSilos = new List<Transform>();// yeah yeah it`s trash naming, but good enough
+    [SerializeField] List<Transform> rocketSilos = new List<Transform>();
     float _timer;
     Rigidbody2D _rb;
 

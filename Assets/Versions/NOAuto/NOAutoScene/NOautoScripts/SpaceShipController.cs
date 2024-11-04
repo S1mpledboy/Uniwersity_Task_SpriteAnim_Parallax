@@ -7,7 +7,7 @@ public class SpaceShipController : MonoBehaviour
     float horizontalMvement, vercticalMovement;
     [SerializeField] float shipSpeed, firerate;
     [SerializeField] GameObject projecTile;
-    [SerializeField] Transform rocketSilo1, rocketSilo2;// yeah yeah it`s trash naming, but good enough
+    [SerializeField] Transform rocketSilo1, rocketSilo2;
     float _timer;
     Rigidbody2D _rb;
 
